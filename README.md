@@ -1,6 +1,7 @@
 # Capturas de pantalla
 ### Pantalla Principal
 Opcion de buscar y ver un listados de tus mascotas.
+
 <img src="capturas/busqueda.png">
 
 ### Pantalla principal mis mascostas y boton de añadir
