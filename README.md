@@ -1,4 +1,6 @@
-# Capturas de pantalla
+# App para llevar el control detallado de tus mascostas, actualmente en
+desarrollo con React native al final será exportado para Android y IOS
+
 ### Pantalla Principal
 Opcion de buscar y ver un listados de tus mascotas.
 
